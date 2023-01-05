@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fHLZHHtH30epAiCnR0oAOCHeTywVmPqmXlxzo8gM3Rk=",
+  "Source": "kubernetes1",
+  "BasePath": "_content/kubernetes1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
